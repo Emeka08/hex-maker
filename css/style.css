@@ -1,0 +1,8 @@
+.body {
+    transition: all 500ms;
+    height: 500px;
+    width: 50%;
+    margin: auto;
+    margin-top: 8rem;
+    border: 2px solid black;
+}
