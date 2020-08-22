@@ -3,6 +3,12 @@
     height: 500px;
     width: 50%;
     margin: auto;
-    margin-top: 8rem;
+    margin-top: 4rem;
     border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    padding: .7rem 3rem !important;
 }
